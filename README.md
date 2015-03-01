@@ -18,7 +18,7 @@ You can locate your Sublime Text `Packages` directory by using the menu item `Pr
 While inside the `Packages` directory, clone the theme repository using the command below:
 
 ```sh
-$ git clone https://github.com/shmowzow/syntax-highlighting.git "Smowzow Lang"
+$ git clone https://github.com/shmowzow/syntax-highlighting.git "Shmowzow Lang"
 ```
 
 #### Download Manually
