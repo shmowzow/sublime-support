@@ -24,7 +24,15 @@ Command     		      | Scope
 `ShmoWzow` / `sHMOwZOW`   | `entity.name.function`																																		
 `c:` 					  | `string.quoted.double`																																							
 
-
 > *Remember*: Shmowzow ignores all characters except the eight commands; so no special syntax for comments is needed 
 (as long as the comments don't contain the commands). The `c:` is not actually necessary for comments - it just makes
 the things more beautiful.  
+
+##License
+
+Shmowzow's syntax highlighting support is distributed under the MIT License, available in this repository. All 
+contributions are assumed to be also licensed under the MIT License.
+
+> Adventure Time is an American animated television series created by Pendleton Ward for Cartoon Network. Shmowzow Language
+*does not* have any rights over anything related to the series; images, logos, and everything related to the show have All
+Rights Reserved to Cartoon Network, A Time Warner Company.
