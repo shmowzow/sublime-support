@@ -29,7 +29,7 @@ $ git clone https://github.com/shmowzow/syntax-highlighting.git "Smowzow Lang"
 4. Copy the folder into your Sublime Text `Packages` directory
 5. Have fun!
 
-## Scopes/Commands
+## Commands/Scopes
 
 Command     		      | Scope																																														
 ---						  | ---  																																															
