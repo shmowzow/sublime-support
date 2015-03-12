@@ -39,9 +39,8 @@ Command     		      | Scope
 `ShmoWzow` / `sHMOwZOW`   | `entity.name.function`																																		
 `c:` 					  | `string.quoted.double`																																							
 
-> *Remember*: Shmowzow ignores all characters except the eight commands; so no special syntax for comments is needed 
-(as long as the comments don't contain the commands). The `c:` is not actually necessary for comments - it just makes
-the things more beautiful.  
+> *Remember*: The `c:` command is not actually used for comments if you intend to build your `.finn` program - since as
+said before Shmowzow doesn't support commenting yet -, it just makes the things *more beautiful*.  
 
 ##License
 
