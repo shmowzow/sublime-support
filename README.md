@@ -2,13 +2,12 @@
 
 ![Shmowzow](https://raw.githubusercontent.com/shmowzow/shmowzow-lang/master/shmowzow.gif)
 
-Shmowzow's syntax highlighting support for some text editors. 
+Shmowzow's syntax highlighting support for [Sublime Text](http://www.sublimetext.com/). 
 
 ##Using
 
-### Sublime Text
 
-#### Install using Git
+### Install using Git
 
 You can install the markup and keep up to date by cloning the repo directly into your `Packages` directory in the Sublime
 Text application settings area.
@@ -18,12 +17,12 @@ You can locate your Sublime Text `Packages` directory by using the menu item `Pr
 While inside the `Packages` directory, clone the theme repository using the command below:
 
 ```sh
-$ git clone https://github.com/shmowzow/syntax-highlighting.git "Shmowzow Lang"
+$ git clone https://github.com/shmowzow/sublime-support.git "Shmowzow Lang"
 ```
 
-#### Download Manually
+### Download Manually
 
-1. Download the files using the [GitHub .zip download](https://github.com/shmowzow/syntax-highlighting/archive/master.zip) option
+1. Download the files using the [GitHub .zip download](https://github.com/shmowzow/sublime-support/archive/master.zip) option
 2. Unzip the files and rename the folder to `Shmowzow Lang`
 3. Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
 4. Copy the folder into your Sublime Text `Packages` directory
