@@ -26,7 +26,7 @@
 			<key>match</key>
 			<string>ShMoWzOw|sHmOwZoW</string>
 			<key>name</key>
-			<string>support.constant</string>
+			<string>storage.type</string>
 		</dict>
 		<dict>
 			<key>match</key>
@@ -38,7 +38,7 @@
 			<key>match</key>
 			 <string>(c:).*$\n?</string>
 			<key>name</key>
-			<string>string.quoted.double</string>
+			<string>comment</string>
 		</dict>
 	</array>
 	<key>scopeName</key>
