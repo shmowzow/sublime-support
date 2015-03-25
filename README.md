@@ -34,9 +34,9 @@ Command     		      | Scope
 ---						  | ---  																																															
 `Shmowzow` / `shmowzoW`   | `keyword.control`  																														   
 `SHMOWZOW` / `shmowzow`   | `constant.numeric`																															
-`ShMoWzOw` / `sHmOwZoW`	  | `support.constant`																																			 
+`ShMoWzOw` / `sHmOwZoW`	  | `storage.type`																																			 
 `ShmoWzow` / `sHMOwZOW`   | `entity.name.function`																																		
-`c:` 					  | `string.quoted.double`																																							
+`c:` 					  | `comment`																																							
 
 > *Remember*: The `c:` command is not actually used for comments if you intend to build your `.finn` program - since as
 said before Shmowzow doesn't support commenting yet -, it just makes the things *more beautiful*.  
